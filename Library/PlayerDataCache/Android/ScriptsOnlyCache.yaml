@@ -4,6 +4,7 @@ ScriptsOnlyBuild:
     - ONSPSettings
     - OvrAvatar
     - OvrAvatarLocalDriver
+    - OvrAvatarSettings
     Oculus.Platform.dll:
     - Oculus.Platform.PlatformSettings
     Oculus.VR.Editor.dll:
@@ -19,8 +20,6 @@ ScriptsOnlyBuild:
     - OVRPlayerController
     - OVRSceneSampleController
     - OVRScreenFade
-    Unity.ProBuilder.dll:
-    - UnityEngine.ProBuilder.ColorPalette
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -71,6 +70,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12122}
     - Class: 114
       Script: {instanceID: 12406}
+    - Class: 114
+      Script: {instanceID: 12460}
     - Class: 114
       Script: {instanceID: 12698}
     - Class: 114
@@ -1893,4 +1894,4 @@ ScriptsOnlyBuild:
   platform: 13
   scenePathNames:
   - Assets/Scenes/Environment1.unity
-  playerPath: /Users/ethanholen/Dropbox/Unity/object-manipulation/Builds/snap.apk
+  playerPath: /Users/ethanholen/Dropbox/Unity/object-manipulation/Builds/sword.apk
