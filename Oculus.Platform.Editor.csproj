@@ -258,6 +258,21 @@
  <Reference Include="UnityEditor.Android.Extensions">
  <HintPath>/Applications/Unity/Hub/Editor/2019.4.0f1/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
  </Reference>
+ <Reference Include="Malimbe.XmlDocumentationAttribute">
+ <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.XmlDocumentationAttribute.dll</HintPath>
+ </Reference>
+ <Reference Include="Malimbe.MemberClearanceMethod">
+ <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberClearanceMethod.dll</HintPath>
+ </Reference>
+ <Reference Include="Malimbe.BehaviourStateRequirementMethod">
+ <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.BehaviourStateRequirementMethod.dll</HintPath>
+ </Reference>
+ <Reference Include="Malimbe.MemberChangeMethod">
+ <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.MemberChangeMethod.dll</HintPath>
+ </Reference>
+ <Reference Include="Malimbe.PropertySerializationAttribute">
+ <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/io.extendreality.malimbe@9.6.5/Runtime/Malimbe.PropertySerializationAttribute.dll</HintPath>
+ </Reference>
  <Reference Include="nunit.framework">
  <HintPath>/Users/ethanholen/Dropbox/Unity/object-manipulation/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
  </Reference>

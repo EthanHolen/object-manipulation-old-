@@ -1,4 +1,0 @@
-#Wed Jul 15 09:30:47 MDT 2020
-base.0=/Users/ethanholen/Dropbox/Unity/object-manipulation/Temp/gradleOut/launcher/build/intermediates/transforms/dexMerger/release/0
-path.0=classes.dex
-renamed.0=classes.dex
